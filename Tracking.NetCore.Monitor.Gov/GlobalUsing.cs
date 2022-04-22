@@ -1,0 +1,17 @@
+﻿global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Logging;
+global using MongoDB.Bson.Serialization.Attributes;
+global using MongoDB.Driver;
+global using Newtonsoft.Json;
+global using ProtoBuf;
+global using Serilog;
+global using System.Linq.Expressions;
+global using System.Net.Sockets;
+global using System.Text;
+global using Tracking.NetCore.Monitor.Gov.Models;
+global using Tracking.NetCore.Monitor.Gov.Services.Interfaces;
+global using Vietmap.NetCore.Legacy.Common;
+global using Vietmap.NetCore.RabbitMQ;
+global using Vietmap.NetCore.RabbitMQ.Settings;
+global using MongoDB.Bson.Serialization.IdGenerators;

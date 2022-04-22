@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tracking.NetCore.Monitor.Gov": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
